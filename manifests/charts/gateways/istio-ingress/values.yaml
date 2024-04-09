@@ -29,7 +29,7 @@ defaults:
       # replicaCount: 1
       rollingMaxSurge: 100%
       rollingMaxUnavailable: 25%
-      autoscaleEnabled: true
+      autoscaleEnabled: false
       autoscaleMin: 1
       autoscaleMax: 5
 
