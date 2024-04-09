@@ -43,7 +43,7 @@ defaults:
           cpu: 100m
           memory: 128Mi
         limits:
-          cpu: 2000m
+          cpu: 200m
           memory: 1024Mi
 
       loadBalancerIP: ""
