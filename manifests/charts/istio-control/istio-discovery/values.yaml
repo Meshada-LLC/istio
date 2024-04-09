@@ -3,7 +3,7 @@ defaults:
 
   ## Discovery Settings
   pilot:
-    autoscaleEnabled: true
+    autoscaleEnabled: false
     autoscaleMin: 1
     autoscaleMax: 5
     autoscaleBehavior: {}
